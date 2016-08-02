@@ -1,2 +1,23 @@
 # sublime-plugins
-List of Sublime Plugins i use.
+
+- AdvancedNewFile https://github.com/skuroda/Sublime-AdvancedNewFile
+- All Autocomplete https://github.com/alienhard/SublimeAllAutocomplete
+- AutoFileName https://github.com/BoundInCode/AutoFileName
+- BracketHighlighter https://github.com/facelessuser/BracketHighlighter
+- ColorHighlighter https://github.com/Monnoroch/ColorHighlighter
+- DocBlockr https://github.com/spadgos/sublime-jsdocs
+- EJS.tmLanguage https://github.com/samholmes/EJS.tmLanguage
+- Emmet https://github.com/sergeche/emmet-sublime
+- SublimeFileDiffs https://github.com/colinta/SublimeFileDiffs
+- Go To Definition https://packagecontrol.io/packages/Go%20To%20Definition
+- Handlebars https://github.com/daaain/Handlebars
+- Sublime-HTMLPrettify https://github.com/victorporof/Sublime-HTMLPrettify
+- Javascript Refactor https://github.com/s-a/sublime-text-refactor
+- jQuery https://github.com/SublimeText/jQuery
+- JsFormat https://github.com/jdc0589/JsFormat
+- Markdown Preview https://github.com/revolunet/sublimetext-markdown-preview
+- Package Control https://packagecontrol.io/
+- phpfmt https://github.com/nanch/sublime-phpfmt
+- SideBarEnhancements https://github.com/titoBouzout/SideBarEnhancements
+- Tern for Sublime Text https://github.com/ternjs/tern_for_sublime
+- cobalt2 Theme https://github.com/wesbos/cobalt2/
