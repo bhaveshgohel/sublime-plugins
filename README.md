@@ -1,5 +1,5 @@
 # sublime-plugins
-
+List of Sublime Plugins i use:
 - AdvancedNewFile https://github.com/skuroda/Sublime-AdvancedNewFile
 - All Autocomplete https://github.com/alienhard/SublimeAllAutocomplete
 - AutoFileName https://github.com/BoundInCode/AutoFileName
