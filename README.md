@@ -19,5 +19,7 @@ List of Sublime Plugins i use:
 - Package Control https://packagecontrol.io/
 - phpfmt https://github.com/nanch/sublime-phpfmt
 - SideBarEnhancements https://github.com/titoBouzout/SideBarEnhancements
+- Sublime-CSS3 https://github.com/i-akhmadullin/Sublime-CSS3
+- SublimeCodeIntel https://github.com/SublimeCodeIntel/SublimeCodeIntel
 - Tern for Sublime Text https://github.com/ternjs/tern_for_sublime
 - cobalt2 Theme https://github.com/wesbos/cobalt2/
