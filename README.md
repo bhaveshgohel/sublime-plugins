@@ -23,4 +23,3 @@ List of Sublime Plugins i use:
 - SublimeCodeIntel https://github.com/SublimeCodeIntel/SublimeCodeIntel
 - Tern for Sublime Text https://github.com/ternjs/tern_for_sublime
 - cobalt2 Theme https://github.com/wesbos/cobalt2/
-- JavaScriptNext - ES6 Syntax https://github.com/Benvie/JavaScriptNext.tmLanguage
