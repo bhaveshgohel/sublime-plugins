@@ -1,4 +1,4 @@
-# sublime-plugins
+# Sublime Plugins
 List of Sublime Plugins i use:
 - AdvancedNewFile https://github.com/skuroda/Sublime-AdvancedNewFile
 - All Autocomplete https://github.com/alienhard/SublimeAllAutocomplete
