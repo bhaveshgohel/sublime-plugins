@@ -11,7 +11,7 @@ List of Sublime Plugins i use:
 - FileDiffs https://github.com/colinta/SublimeFileDiffs
 - Go To Definition https://packagecontrol.io/packages/Go%20To%20Definition
 - Handlebars https://github.com/daaain/Handlebars
-- Sublime-HTMLPrettify https://github.com/victorporof/Sublime-HTMLPrettify
+- HTML-CSS-JS Prettify https://github.com/victorporof/Sublime-HTMLPrettify
 - Javascript Refactor https://github.com/s-a/sublime-text-refactor
 - jQuery https://github.com/SublimeText/jQuery
 - JsFormat https://github.com/jdc0589/JsFormat
