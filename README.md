@@ -8,7 +8,7 @@ List of Sublime Plugins i use:
 - DocBlockr https://github.com/spadgos/sublime-jsdocs
 - EJS.tmLanguage https://github.com/samholmes/EJS.tmLanguage
 - Emmet https://github.com/sergeche/emmet-sublime
-- SublimeFileDiffs https://github.com/colinta/SublimeFileDiffs
+- FileDiffs https://github.com/colinta/SublimeFileDiffs
 - Go To Definition https://packagecontrol.io/packages/Go%20To%20Definition
 - Handlebars https://github.com/daaain/Handlebars
 - Sublime-HTMLPrettify https://github.com/victorporof/Sublime-HTMLPrettify
